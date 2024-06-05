@@ -17,5 +17,5 @@
 
 - Como dito da introdução, podemos observar quais os princípais gêneros e categorias disponíveis na plataforma.
 
-![Imgur](https://i.imgur.com/q1GWBKR.png)
+![Imgur|500](https://i.imgur.com/q1GWBKR.png)
 ![Imgur](https://i.imgur.com/WHRTBMH.png)
