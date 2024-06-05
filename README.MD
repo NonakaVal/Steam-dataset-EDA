@@ -4,10 +4,9 @@
 
 ### Resultados
 
-#### Introdução
 - *As primeiras análises mostraram que jogos independente de ação são a grande maioria dos gêneros de jogos desenvolvidos, isso se deve pela plataforma steam permitir fácil distribuição garantindo a produtores independentes uma forma fácil. de publicar e vender seus jogos.*
 - *A proporção entre jogos single players e multiplayers é de 87% single players e 13% multiplayers, uma diferença esperada já que jogos multiplayers exige maior investimento em infraestrutura para hospedagem e manutenção de servidores.*
-
+- *A plataforma Steam continua sendo um importante canal de distribuição para desenvolvedores independentes, enquanto grandes empresas como Square Enix também mantêm sua relevância com seus lançamentos de RPG e ação. A competitividade é evidente, com empresas buscando inovação e reconhecimento por meio de premiações e altas avaliações dos jogadores.*
 
 
 
@@ -26,7 +25,7 @@
 
 ![Imgur](https://i.imgur.com/I6gEAV9.png)
 
-#### Desenvolvedoras
+#### As maiores empresas considerando a quantidade de jogos lançados e as avaliações médias são
 
 ##### Choice of Games:
 - Maior número de jogos lançados: 122.
@@ -122,3 +121,11 @@ Aqui estão os 10 jogos com maior quantidade de avaliações e seus respectivos 
     - Gêneros: Action, Adventure, Free to Play
     - Categorias: Online PvP, Online Co-op, Steam Achievements, In-App Purchases
     - Total de avaliações: 828,477
+
+
+
+
+
+
+
+
