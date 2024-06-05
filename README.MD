@@ -12,3 +12,10 @@
 - Nosso primeiro gráfico apresenta o aumento na quantidade de titúlo lançados ao decorrer dos anos entre 1997 e 2024.
 
 ![Imgur](https://i.imgur.com/Cxd0k8b.png)
+
+#### Distribuição de jogos por gênero e categoria
+
+- Como dito da introdução, podemos observar quais os princípais gêneros e categorias disponíveis na plataforma.
+
+![Imgur](https://i.imgur.com/q1GWBKR.png)
+![Imgur](https://i.imgur.com/WHRTBMH.png)
