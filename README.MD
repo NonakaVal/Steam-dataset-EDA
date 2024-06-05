@@ -8,12 +8,14 @@
 - *As primeiras análises mostraram que jogos independente de ação são a grande maioria dos gêneros de jogos desenvolvidos, isso se deve pela plataforma steam permitir fácil distribuição garantindo a produtores independentes uma forma fácil. de publicar e vender seus jogos.*
 - *A proporção entre jogos single players e multiplayers é de 87% single players e 13% multiplayers, uma diferença esperada já que jogos multiplayers exige maior investimento em infraestrutura para hospedagem e manutenção de servidores.*
 
-#### Crescimento da Industria
+
+
+
+#### Gráficos 
+
 - Nosso primeiro gráfico apresenta o aumento na quantidade de titúlo lançados ao decorrer dos anos entre 1997 e 2024.
 
 ![Imgur](https://i.imgur.com/Cxd0k8b.png)
-
-#### Distribuição de jogos por gênero e categoria
 
 - Como dito da introdução, podemos observar quais os princípais gêneros e categorias disponíveis na plataforma.
 
@@ -24,7 +26,7 @@
 
 ![Imgur](https://i.imgur.com/I6gEAV9.png)
 
-#### Sobre as Desenvolvedoras
+#### Desenvolvedoras
 
 ##### Choice of Games:
 - Maior número de jogos lançados: 122.
