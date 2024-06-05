@@ -8,5 +8,5 @@
 -  *Este conjunto de dados pode ser útil para análises de mercado, comparações entre jogos, recomendações e outras análises relacionadas à essa indústria*
 
 ##### Projeto
-- Você pode acessar todo o processo de exploração no link abaixo.
-- [Arquivo Jupyter](https://github.com/NonakaVal/steam/blob/main/main.ipynb)
+- Você pode acessar todo o processo de exploração clicando [Aqui](https://github.com/NonakaVal/steam/blob/main/main.ipynb)
+- 
