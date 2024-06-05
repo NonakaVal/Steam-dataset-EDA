@@ -10,4 +10,5 @@
 
 #### Crescimento da Industria
 - Nosso primeiro gráfico apresenta o aumento na quantidade de titúlo lançados ao decorrer dos anos entre 1997 e 2024.
+
 ![Imgur](https://i.imgur.com/Cxd0k8b.png)
