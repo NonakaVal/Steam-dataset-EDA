@@ -17,5 +17,19 @@
 
 - Como dito da introdução, podemos observar quais os princípais gêneros e categorias disponíveis na plataforma.
 
-![Imgur|500](https://i.imgur.com/q1GWBKR.png)
+![Imgur](https://i.imgur.com/q1GWBKR.png)
 ![Imgur](https://i.imgur.com/WHRTBMH.png)
+
+#### Premiações
+
+![Imgur](https://i.imgur.com/I6gEAV9.png)
+
+#### Sobre as Desenvolvedoras
+#####  As 10 maiores empresas considerando a quantidade de jogos lançados e as avaliações médias são:
+
+1. Choice of Games - 122 jogos lançados, avaliação média de 74.89%
+    - RPG: 33.06%
+    - Indie: 32.25%
+    - Adventure: 24.12%
+    - Casual: 7.32%
+    - Action: 3.25%
