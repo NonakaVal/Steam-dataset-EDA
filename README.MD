@@ -7,6 +7,8 @@
 - *As primeiras análises mostraram que jogos independente de ação são a grande maioria dos gêneros de jogos desenvolvidos, isso se deve pela plataforma steam permitir fácil distribuição garantindo a produtores independentes uma forma fácil. de publicar e vender seus jogos.*
 - *A proporção entre jogos single players e multiplayers é de 87% single players e 13% multiplayers, uma diferença esperada já que jogos multiplayers exige maior investimento em infraestrutura para hospedagem e manutenção de servidores.*
 - *A plataforma Steam continua sendo um importante canal de distribuição para desenvolvedores independentes, enquanto grandes empresas como Square Enix também mantêm sua relevância com seus lançamentos de RPG e ação. A competitividade é evidente, com empresas buscando inovação e reconhecimento por meio de premiações e altas avaliações dos jogadores.*
+- *A quantidade de jogos lançados aumenta em cerca de 104.10% a cada ano.*
+- 
 
 
 
