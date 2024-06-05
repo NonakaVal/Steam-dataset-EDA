@@ -25,38 +25,38 @@
 ![Imgur](https://i.imgur.com/I6gEAV9.png)
 
 #### Sobre as Desenvolvedoras
-#####  As 5 maiores empresas considerando a quantidade de jogos lançados e as avaliações médias são:
 
-1. Choice of Games - 122 jogos lançados, avaliação média de 74.89%
-    - RPG: 33.06%
-    - Indie: 32.25%
-    - Adventure: 24.12%
-    - Casual: 7.32%
-    - Action: 3.25%
-2. Laush Dmitriy Sergeevich - 103 jogos lançados, avaliação média de 82.12%
-    - Casual: 31.07%
-    - Indie: 30.58%
-    - Adventure: 25.24%
-    - Action: 5.83%
-    - Simulation: 4.85%
-3. Sokpop Collective - 87 jogos lançados, avaliação média de 73.83%
-    - Indie: 35.63%
-    - Casual: 28.74%
-    - Simulation: 23.56%
-    - Adventure: 7.47%
-    - Strategy: 4.60%
-4. Square Enix - 80 jogos lançados, avaliação média de 75.59%
-    - RPG: 35.86%
-    - Action: 33.21%
-    - Adventure: 27.46%
-    - Massively Multiplayer: 3.47%
-5. Dnovel - 74 jogos lançados, avaliação média de 87.80%
-    - Action: 42.98%
-    - Adventure: 39.19%
-    - Indie: 12.16%
-    - RPG: 5.67%
+##### Choice of Games:
+- Maior número de jogos lançados: 122.
+- Avaliação média: 74.89%.
+- Principais gêneros: RPG, Indie e Adventure.
+- Predominância em RPG (33.06%) e Indie (32.25%).
 
-##### Esses são os desenvolvedores com as maiores médias de percentual de desconto em seus jogos, com a CAPCOM Co., Ltd. liderando a lista.>)
+##### Laush Dmitriy Sergeevich:
+- Segundo maior número de jogos lançados: 103.
+- Avaliação média: 82.12%.
+- Principais gêneros: Casual, Indie e Adventure.
+- Maior foco em Casual (31.07%) e Indie (30.58%).
+
+##### Sokpop Collective:
+- Terceiro maior número de jogos lançados: 87.
+- Avaliação média: 73.83%.
+- Principais gêneros: Indie, Casual e Simulation.
+- Forte presença em Indie (35.63%) e Casual (28.74%).
+
+##### Square Enix:
+- 80 jogos lançados.
+- Avaliação média: 75.59%.
+- Principais gêneros: RPG, Action e Adventure.
+- Destaque em RPG (35.86%) e Action (33.21%).
+
+Dnovel:
+- 74 jogos lançados.
+- Avaliação média: 87.80%.
+- Principais gêneros: Action, Adventure e Indie.
+- Ênfase em Action (42.98%) e Adventure (39.19%).
+
+##### Esses são os desenvolvedores com as maiores médias de percentual de desconto em seus jogos, com a CAPCOM Co., Ltd. liderando a lista.
 1. CAPCOM Co., Ltd.: 1.48%
 2. Respawn: 1.24%
 3. Bethesda Game Studios: 0.91%
@@ -70,7 +70,7 @@
 
 #### Jogos
 
-Aqui estão os 20 jogos com maior quantidade de avaliações e seus respectivos gêneros e categorias:
+Aqui estão os 10 jogos com maior quantidade de avaliações e seus respectivos gêneros e categorias:
 1. **Counter-Strike 2**
    - Gêneros: Action, Free to Play
    - Categorias: Cross-Platform Multiplayer, Steam Trading Cards, Steam Workshop, In-App Purchases, Valve Anti-Cheat enabled, Stats, Remote Play on Phone, Remote Play on Tablet, Remote Play on TV
