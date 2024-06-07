@@ -1,6 +1,7 @@
 #### Introdução
 Steam é um software de gestão de direitos digitais criado pela Valve Corporation, usado para distribuição digital de jogos e aplicativos. O cliente Steam oferece automação de atualização de jogos, armazenamento em nuvem, recursos de comunidade como mensagens diretas e um mercado virtual colecionável. É a maior plataforma de distribuição digital de jogos de computador.
 by [wikipedia](https://pt.wikipedia.org/wiki/Steam).
+
 <img src="https://i.imgur.com/JI55WIw.png" alt="Image" width="10%" style="display: block; margin: 0 auto;">
 
 #### Metodologia
