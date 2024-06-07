@@ -1,12 +1,9 @@
 #### Introdução
-<img src="https://i.imgur.com/JI55WIw.png" alt="Image" width="10%">
-
 Steam é um software de gestão de direitos digitais criado pela Valve Corporation, usado para distribuição digital de jogos e aplicativos. O cliente Steam oferece automação de atualização de jogos, armazenamento em nuvem, recursos de comunidade como mensagens diretas e um mercado virtual colecionável. É a maior plataforma de distribuição digital de jogos de computador.
 by [wikipedia](https://pt.wikipedia.org/wiki/Steam).
-
+<img src="https://i.imgur.com/JI55WIw.png" alt="Image" width="10%">
 
 #### Metodologia
-
 Os dados usados foram disponibilizados no site [kaggle](https://www.kaggle.com/datasets/amanbarthwal/steam-store-data/code) e consistem em informações sobre diferentes jogos, incluindo o ID, título, data de lançamento, gêneros, categorias, desenvolvedor, editora, preço com desconto, disponibilidade de DLC, classificação etária, descrição do aplicativo, suporte para Windows, Mac e Linux, prêmios recebidos, avaliação geral.
 
 Utilizamos as seguintes etapas metodológicas:
@@ -14,7 +11,7 @@ Utilizamos as seguintes etapas metodológicas:
 - Análise Descritiva.
 - Análise Exploratória
 
-este arquivo terá como foco os resultados, mas você pode acessar todo o processo de exploração [Aqui](https://github.com/NonakaVal/steam/blob/main/main.ipynb).
+Este arquivo terá como foco os resultados, mas você pode acessar todo o processo de exploração [Aqui](https://github.com/NonakaVal/steam/blob/main/main.ipynb).
 
 #### Resultados.
 
@@ -24,7 +21,6 @@ Os jogos independentes de ação são a grande maioria dos gêneros de jogos des
 2. Proporção de Jogos Single Player vs Multiplayer
 - **Single Player:** 87%
 - **Multiplayer:** 13%
-
 A baixa proporção de jogos multiplayer é esperada, pois esses jogos exigem maior investimento em infraestrutura para hospedagem e manutenção de servidores.
 
  3. Importância da Plataforma Steam
@@ -34,16 +30,13 @@ A baixa proporção de jogos multiplayer é esperada, pois esses jogos exigem ma
 
 4. Crescimento Anual de Lançamentos
 A quantidade de jogos lançados na Steam aumenta em aproximadamente 104,10% a cada ano.
-
 ![Imgur](https://i.imgur.com/Cxd0k8b.png)
-
 
 5. Principais Gêneros de Jogos na Plataforma
 ![Imgur](https://i.imgur.com/q1GWBKR.png)
 [![Imgur](https://i.imgur.com/WHRTBMH.png)
 6. Premiações Recebidas por Diferentes  Gêneros.
 ![Imgur](https://i.imgur.com/I6gEAV9.png)
-
 
 7. Principais Empresas por Número de Jogos Lançados e Avaliações Médias
 
