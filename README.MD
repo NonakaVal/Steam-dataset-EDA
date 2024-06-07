@@ -21,7 +21,7 @@ Este arquivo terá como foco os resultados, mas você pode acessar todo o proces
 
 ### Resultados.
 
-##### Predominância de Jogos Independentes de Ação.
+#### Predominância de Jogos Independentes de Ação.
 Os jogos independentes de ação são a grande maioria dos gêneros de jogos desenvolvidos na Steam. Isso se deve à facilidade de distribuição proporcionada pela plataforma, que garante aos produtores independentes uma maneira fácil de publicar e vender seus jogos.
 
 #### Proporção de Jogos Single Player vs Multiplayer
@@ -30,24 +30,24 @@ Os jogos independentes de ação são a grande maioria dos gêneros de jogos des
 
 A baixa proporção de jogos multiplayer é esperada, pois esses jogos exigem maior investimento em infraestrutura para hospedagem e manutenção de servidores.
 
-##### Importância da Plataforma Steam
+#### Importância da Plataforma Steam
 
 - **Desenvolvedores Independentes:** A Steam continua sendo um canal essencial.
 - **Grandes Empresas:** Empresas como Square Enix mantêm sua relevância com lançamentos de RPG e ação.
 - **Competitividade:** Empresas buscam inovação e reconhecimento através de premiações e altas avaliações dos jogadores.
 
-##### Crescimento Anual de Lançamentos
+#### Crescimento Anual de Lançamentos
 A quantidade de jogos lançados na Steam aumenta em aproximadamente 104,10% a cada ano.
 ![Imgur](https://i.imgur.com/Cxd0k8b.png)
 
-##### Principais Gêneros de Jogos na Plataforma
+#### Principais Gêneros de Jogos na Plataforma
 ![Imgur](https://i.imgur.com/q1GWBKR.png)
 [![Imgur](https://i.imgur.com/WHRTBMH.png)
 
-##### Premiações Recebidas por Diferentes  Gêneros.
+#### Premiações Recebidas por Diferentes  Gêneros.
 ![Imgur](https://i.imgur.com/I6gEAV9.png)
 
-##### Principais Empresas por Número de Jogos Lançados e Avaliações Médias
+#### Principais Empresas por Número de Jogos Lançados e Avaliações Médias
 
 | Empresa                      | Jogos Lançados | Avaliação Média | Principais Gêneros        | Destaques                           |
 | ---------------------------- | -------------- | --------------- | ------------------------- | ----------------------------------- |
@@ -58,7 +58,7 @@ A quantidade de jogos lançados na Steam aumenta em aproximadamente 104,10% a ca
 | **Dnovel**                   | 74             | 87,80%          | Action, Adventure, Indie  | Action (42,98%), Adventure (39,19%) |
 |                              |                |                 |                           |                                     |
 
-##### Desenvolvedores com Maiores Médias de Percentual de Desconto
+#### Desenvolvedores com Maiores Médias de Percentual de Desconto
 
 | Desenvolvedor             | Percentual Médio de Desconto |
 | ------------------------- | ---------------------------- |
@@ -68,7 +68,7 @@ A quantidade de jogos lançados na Steam aumenta em aproximadamente 104,10% a ca
 | **Rockstar North**        | 0,57%                        |
 | **Ubisoft Montreal**      | 0,52%                        |
 
-##### Jogos com Maior Quantidade de Avaliações
+#### Jogos com Maior Quantidade de Avaliações
 
 | Jogo                               | Gêneros                                                | Total de Avaliações |
 | ---------------------------------- | ------------------------------------------------------ | ------------------- |
