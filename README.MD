@@ -40,12 +40,12 @@ A baixa proporção de jogos multiplayer é esperada, pois esses jogos exigem ma
 A quantidade de jogos lançados na Steam aumenta em aproximadamente 104,10% a cada ano.
 ![Imgur](https://i.imgur.com/Cxd0k8b.png)
 
-#### 5.Principais Gêneros de Jogos na Plataforma
-![Imgur](https://i.imgur.com/q1GWBKR.png)
-[![Imgur](https://i.imgur.com/WHRTBMH.png)
+#### 5.Principais Gêneros e Categorias de Jogos na Plataforma
+![Imgur](https://i.imgur.com/ZMeKjus.png)
+![Imgur](https://i.imgur.com/1m7FA8a.png)
 
 #### 6.Premiações Recebidas por Diferentes  Gêneros.
-![Imgur](https://i.imgur.com/I6gEAV9.png)
+![Imgur](https://i.imgur.com/knMe2l7.png)
 
 #### 7.Principais Empresas por Número de Jogos Lançados e Avaliações Médias
 
