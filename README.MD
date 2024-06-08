@@ -17,7 +17,7 @@ Utilizamos as seguintes etapas metodológicas:
 - Análise Descritiva.
 - Análise Exploratória
 
-Este arquivo terá como foco os resultados, mas você pode acessar todo o processo de exploração [Aqui](https://github.com/NonakaVal/steam/blob/main/main.ipynb).
+Este arquivo terá como foco apresentar os resultados, mas você pode acessar todo o processo de exploração [Aqui](https://github.com/NonakaVal/steam/blob/main/main.ipynb).
 
 ### Resultados.
 
