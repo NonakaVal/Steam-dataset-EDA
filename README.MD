@@ -37,7 +37,6 @@ A baixa proporção de jogos multiplayer é esperada, pois esses jogos exigem ma
 - **Competitividade:** Empresas buscam inovação e reconhecimento através de premiações e altas avaliações dos jogadores.
 
 #### 4.Crescimento Anual de Lançamentos
-A quantidade de jogos lançados na Steam aumenta em aproximadamente 104,10% a cada ano.
 ![Imgur](https://i.imgur.com/6y9mE2M.png)
 
 #### 5.Principais Gêneros e Categorias de Jogos na Plataforma
