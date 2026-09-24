@@ -5,7 +5,7 @@ Steam é um software de gestão de direitos digitais criado pela Valve Corporati
 by [wikipedia](https://pt.wikipedia.org/wiki/Steam).
 
 <a href="https://store.steampowered.com/">
-    <img src="https://i.imgur.com/JI55WIw.png" alt="Image" width="15%" style="display: block; margin: 0 auto;">
+    <img src="https://imgur.com/v8hXIC9.png" alt="Image" width="15%" style="display: block; margin: 0 auto;">
 </a>
 
 
